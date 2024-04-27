@@ -1,17 +1,21 @@
-# example2
-
-A new Flutter project.
+# Note App
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a simple Note App developed using Flutter.
 
-A few resources to get you started if this is your first Flutter project:
-
+To get started with Flutter development:
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_to_github
+For more information and resources on Flutter development, refer to the [online documentation](https://docs.flutter.dev/).
+
+
+## Images
+
+
+Here are some screenshots of the Note App:
+
+![Screenshot 1](https://github.com/reanaa/Note-App/blob/main/asset/U1.PNG)
+![Screenshot 2](https://github.com/reanaa/Note-App/blob/main/asset/U2.PNG)
+![Screenshot 3](https://github.com/reanaa/Note-App/blob/main/asset/U3.PNG)

@@ -17,6 +17,7 @@ class NoteApp extends StatelessWidget {
       theme: ThemeData(
         useMaterial3: true,
       ),
+      // Homeee
       home: NoteListScreen(),
     );
   }
