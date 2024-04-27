@@ -22,7 +22,7 @@ class _NoteListScreenState extends State<NoteListScreen> {
   List<Notiz> notizes = [
     Notiz(
       "Example",
-      "Example",
+      "Example Text",
       Colors.lime,
     ),
   ];

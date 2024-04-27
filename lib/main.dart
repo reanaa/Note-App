@@ -2,7 +2,9 @@ import 'package:NoteApp/screens/home_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const NoteApp());
+  runApp(
+    const NoteApp(),
+  );
 }
 
 class NoteApp extends StatelessWidget {
