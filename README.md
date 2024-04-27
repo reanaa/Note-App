@@ -16,6 +16,6 @@ For more information and resources on Flutter development, refer to the [online 
 
 Here are some screenshots of the Note App:
 
-![Screenshot 1](https://github.com/reanaa/Note-App/blob/main/asset/U1.PNG)
-![Screenshot 2](https://github.com/reanaa/Note-App/blob/main/asset/U2.PNG)
-![Screenshot 3](https://github.com/reanaa/Note-App/blob/main/asset/U3.PNG)
+![Screenshot 1](https://github.com/reanaa/Note-App/blob/main/assets/U1.PNG)
+![Screenshot 2](https://github.com/reanaa/Note-App/blob/main/assets/U2.PNG)
+![Screenshot 3](https://github.com/reanaa/Note-App/blob/main/assets/U3.PNG)
